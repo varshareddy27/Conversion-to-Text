@@ -1,3 +1,7 @@
+This project converts the text to lowercase and uppercase based on the option you choose Also gives the number of words and time taken to Analyse.
+
+https://6637c601669e3d060e315a6d--fluffy-queijadas-ba7c31.netlify.app/#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
